@@ -3,7 +3,7 @@ package pk_TA4_4;
 public class Cuatro {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Reasignacion de variable de tipo int 
 		
 		int N = 1;
 		System.out.println(N);
